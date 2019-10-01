@@ -1,2 +1,0 @@
-# PIAIC
-All PIAIC work 
